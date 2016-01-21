@@ -1,6 +1,8 @@
 /*
- * 
- * RfidTagHandler
+ * RfidTagHandler.h
+* 
+* The MIT License (MIT)
+* Copyright (c) 2016 Pär Stigenberg
 */
 
 #ifndef RfidTagHandler_h

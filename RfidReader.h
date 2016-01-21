@@ -1,6 +1,8 @@
 /*
- * 
- * RfidReader
+ * RfidReader.h
+* 
+* The MIT License (MIT)
+* Copyright (c) 2016 Pär Stigenberg
 */
 
 #ifndef RfidReader_h

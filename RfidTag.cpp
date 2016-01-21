@@ -1,6 +1,8 @@
 /*
- * 
- * RfidTag
+ * RfidTag.cpp
+* 
+* The MIT License (MIT)
+* Copyright (c) 2016 Pär Stigenberg
 */
 
 

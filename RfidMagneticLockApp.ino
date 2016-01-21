@@ -1,3 +1,10 @@
+/*
+* RfidMagneticLockApp.ino
+* 
+* The MIT License (MIT)
+* Copyright (c) 2016 Pär Stigenberg
+*/
+
 #include "RfidTagHandler.h"
 #include "RfidReader.h"
 #include "RfidTag.h"
